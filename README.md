@@ -18,4 +18,4 @@ npm run dev
 
 ## Help
 
-Contact me if you need help from [here](https://lookup.guru/920364039568236565)
+Contact me if you need help from [here](https://lookup.guru/920364039568236565) or [here](https://lookup.guru/485776789277507585)
