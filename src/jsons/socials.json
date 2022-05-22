@@ -1,0 +1,22 @@
+[
+    {   
+        "id": 1,
+        "url": "https://github.com/whosethh",
+        "icon": "../../public/svg/github.svg",
+        "name": "/whosethh"
+    },
+
+    {   
+        "id": 3,
+        "url": "https://t.me/omgsethh",
+        "icon": "../../public/svg/telegram.svg",
+        "name": "@omgsethh"
+    },
+    {   
+        "id": 4,
+        "url": "https://www.instagram.com/losernamedsethh",
+        "icon": "../../public/svg/instagram.svg",
+        "name": "@losernamedsethh"
+    }
+
+]

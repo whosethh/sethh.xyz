@@ -1,0 +1,62 @@
+[
+        {
+            "id": 1,
+            "name": "Tailwind",
+            "img": "./svg/tailwindcss.svg"
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "img": "./svg/css3.svg"
+        },
+        {
+            "id": 3,
+            "name": "Vue.js",
+            "img": "./svg/vuedotjs.svg"
+        },
+        {
+            "id": 4,
+            "name": "Nuxt.js",
+            "img": "./svg/nuxtdotjs.svg"
+        },
+        {
+            "id": 5,
+            "name": "Node.js",
+            "img": "./svg/nodedotjs.svg"
+        },
+        {
+            "id": 6,
+            "name": "Python",
+            "img": "./svg/python.svg"
+        },
+        {
+            "id": 7,
+            "name": "Javascript",
+            "img": "./svg/javascript.svg"
+        },
+        {
+            "id": 8,
+            "name": "TypeScript",
+            "img": "./svg/typescript.svg"
+        },
+        {
+            "id": 9,
+            "name": "HTML 5",
+            "img": "./svg/html5.svg"
+        },
+        {
+            "id": 10,
+            "name": "Arch",
+            "img": "./svg/archlinux.svg"
+        },
+        {
+            "id": 11,
+            "name": "Windows",
+            "img": "./svg/windows.svg"
+        },
+        {
+            "id": 12,
+            "name": "Lua",
+            "img": "./svg/lua.svg"
+        }
+    ]
