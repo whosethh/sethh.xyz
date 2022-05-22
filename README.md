@@ -6,9 +6,7 @@
 - to Build
 -```bash
 npm run build
-```
 
 - to Run It on Dev Mode
--```bash
+```bash
 npm run dev
-```
