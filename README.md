@@ -5,8 +5,6 @@
 
 ### Live [Demo](https://sethh.xyz)
 
-[Click](https://sethh.xyz) to go 
-
 # Tutorial
 
 - To Build The Project Run:
