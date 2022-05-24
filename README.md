@@ -3,9 +3,9 @@
 <img src="https://cdn.discordapp.com/attachments/973297625791098880/978069200222445578/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/973297625791098880/978069306527076393/unknown.png">
 
-### Live Demo
+### Live [Demo](https://sethh.xyz)
 
-[Click]("https://sethh.xyz")  to go 
+[Click](https://sethh.xyz) to go 
 
 # Tutorial
 
